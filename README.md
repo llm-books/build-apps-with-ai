@@ -85,7 +85,7 @@ The [Discussions tab](../../discussions) is for:
 *Build Apps with AI* is available in:
 
 - **Paperback**: Amazon (recommended for desk-reference reading while you build)
-- **Kindle**: mazon (read on phone, e-reader, or tablet)
+- **Kindle**: Amazon (read on phone, e-reader, or tablet)
 - **PDF**: Gumroad (best for following along on a second monitor)
 - **EPUB**: Apple Books, Kobo
 
