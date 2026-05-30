@@ -84,7 +84,7 @@ The [Discussions tab](../../discussions) is for:
 
 *Build Apps with AI* is available in:
 
-- **Paperback**: Amazon (recommended for desk-reference reading while you build)
+- **Paperback**: [Amazon](https://mybook.to/BOMLa) (recommended for desk-reference reading while you build)
 - **PDF**: [Payhip](https://payhip.com/b/3NovW) — includes free lifetime updates (best for following along on a second monitor)
 
 A copy of the book makes this repo much more useful, but the prompts are free for anyone who finds them.
