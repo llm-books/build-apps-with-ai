@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/front.webp" alt="Build Apps with AI — book cover" width="320">
+  <img src="assets/front.webp" alt="Build Apps with AI book cover" width="320">
 </p>
 
 This is the companion repository for *Build Apps with AI: A hands-on guide to creating Android and iOS apps with AI coding assistants*.
@@ -85,7 +85,7 @@ The [Discussions tab](../../discussions) is for:
 *Build Apps with AI* is available in:
 
 - **Paperback**: [Amazon](https://mybook.to/BOMLa) (recommended for desk-reference reading while you build)
-- **PDF**: [Payhip](https://payhip.com/b/3NovW) — includes free lifetime updates (best for following along on a second monitor)
+- **PDF**: [Payhip](https://payhip.com/b/3NovW), includes free lifetime updates (best for following along on a second monitor)
 
 A copy of the book makes this repo much more useful, but the prompts are free for anyone who finds them.
 
@@ -100,8 +100,8 @@ A copy of the book makes this repo much more useful, but the prompts are free fo
 
 ## A note from the author
 
-This is your safety net. If you're following the book and something doesn't work, **it is almost never your fault**. Software changes, libraries get updated, Apple redesigns App Store Connect every six months. When you find something broken, please report it — you're helping every reader who comes after you.
+This is your safety net. If you're following the book and something doesn't work, **it is almost never your fault**. Software changes, libraries get updated, Apple redesigns App Store Connect every six months. When you find something broken, please report it. You're helping every reader who comes after you.
 
 Now go ship something.
 
-— Omer
+- Omer

@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for wanting to help improve *Build Apps with AI* — this page tells you the fastest way to get your contribution accepted.
+Thanks for wanting to help improve *Build Apps with AI*. This page tells you the fastest way to get your contribution accepted.
 
 There are three ways to contribute, depending on what you want to do.
 
@@ -44,7 +44,7 @@ If you've used GitHub before, the flow is standard:
 4. Make your change, commit, push
 5. Open a **Pull Request** against this repo's `main` branch
 
-If you haven't used GitHub before, **option 1 or 2 above is much easier** — opening an issue is the same outcome with less work.
+If you haven't used GitHub before, **option 1 or 2 above is much easier**. Opening an issue is the same outcome with less work.
 
 ### What I'm likely to merge fast
 
@@ -71,7 +71,7 @@ If you haven't used GitHub before, **option 1 or 2 above is much easier** — op
 
 Be kind. Most readers of this book are first-time builders trying to learn. Treat their questions and PRs with the patience you wanted when you were starting out.
 
-Disrespectful comments — toward readers, contributors, or referenced tools and companies — will be removed. Repeat offenders will be blocked from the repo.
+Disrespectful comments (toward readers, contributors, or referenced tools and companies) will be removed. Repeat offenders will be blocked from the repo.
 
 ---
 
