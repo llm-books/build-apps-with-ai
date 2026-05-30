@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/front.png" alt="Build Apps with AI — book cover" width="320">
+  <img src="assets/front.webp" alt="Build Apps with AI — book cover" width="320">
 </p>
 
 This is the companion repository for *Build Apps with AI: A hands-on guide to creating Android and iOS apps with AI coding assistants*.
