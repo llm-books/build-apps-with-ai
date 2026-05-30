@@ -2,7 +2,7 @@
   <img src="assets/front.png" alt="Build Apps with AI — book cover" width="320">
 </p>
 
-This is the companion repository for *Build Apps with AI: Hands-on guide to creating applications using AI coding assistants*.
+This is the companion repository for *Build Apps with AI: A hands-on guide to creating Android and iOS apps with AI coding assistants*.
 
 If you're reading the book, this repo will help you with the following:
 
@@ -85,9 +85,7 @@ The [Discussions tab](../../discussions) is for:
 *Build Apps with AI* is available in:
 
 - **Paperback**: Amazon (recommended for desk-reference reading while you build)
-- **Kindle**: Amazon (read on phone, e-reader, or tablet)
-- **PDF**: Gumroad (best for following along on a second monitor)
-- **EPUB**: Apple Books, Kobo
+- **PDF**: [Payhip](https://payhip.com/b/3NovW) — includes free lifetime updates (best for following along on a second monitor)
 
 A copy of the book makes this repo much more useful, but the prompts are free for anyone who finds them.
 
