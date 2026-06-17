@@ -2,6 +2,14 @@
   <img src="assets/front.webp" alt="Build Apps with AI book cover" width="320">
 </p>
 
+> ## 📣 Free Second Edition for Early Readers
+>
+> **Bought the book on Amazon before 18 June 2026?** Email **info@llm-books.com** with your order number and I'll send you the second edition as PDF and/or ePub, on the house.
+>
+> **Bought it on Payhip?** You're already covered, check your inbox, the update is on its way.
+
+---
+
 This is the companion repository for *Build Apps with AI: A hands-on guide to creating Android and iOS apps with AI coding assistants*.
 
 If you're reading the book, this repo will help you with the following:
@@ -87,6 +95,8 @@ The [Discussions tab](../../discussions) is for:
 - **Paperback**: [Amazon](https://mybook.to/BOMLa) (recommended for desk-reference reading while you build)
 - **PDF**: [Payhip](https://payhip.com/b/3NovW), includes free lifetime updates (best for following along on a second monitor)
 
+> ### 👉 Want to learn more? Visit **[llm-books.com/build-apps-with-ai](https://llm-books.com/build-apps-with-ai)** for sample chapters, updates, and more.
+
 A copy of the book makes this repo much more useful, but the prompts are free for anyone who finds them.
 
 ---
@@ -103,5 +113,3 @@ A copy of the book makes this repo much more useful, but the prompts are free fo
 This is your safety net. If you're following the book and something doesn't work, **it is almost never your fault**. Software changes, libraries get updated, Apple redesigns App Store Connect every six months. When you find something broken, please report it. You're helping every reader who comes after you.
 
 Now go ship something.
-
-- Omer
