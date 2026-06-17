@@ -1,10 +1,10 @@
 # Update CLAUDE
 
-**Chapter 13 — Statistics Screen Charts and Analytics**  
-Used in: Step 3
+**Chapter 13 — Push Notifications Daily Reminders**  
+Used in: Step 5
 
 ---
 
 ```
-Update CLAUDE.md: Statistics Screen complete with summary cards, weekly line chart, daily pattern bar chart, and habit leaderboard. Added as middle tab. react-native-chart-kit installed. Three tabs: Today, Stats, Settings.
+Update CLAUDE.md: Push notifications implemented with expo-notifications. Local notifications for daily habit reminders. Permission request flow with explanation screen, per-habit scheduling/canceling, master toggle on Settings. Notification tap navigates to habit detail. Test notification button on Settings for development. SafeAreaProvider fix applied to App.tsx.
 ```

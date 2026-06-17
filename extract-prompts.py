@@ -11,8 +11,9 @@ from pathlib import Path
 from textwrap import dedent
 
 # --- Configuration ---------------------------------------------------------
-LATEX_CHAPTERS = Path("/Users/haderom/Documents/books/my book/latex/chapters")
 REPO = Path(__file__).resolve().parent
+# The LaTeX book lives in a sibling `latex/` directory next to this repo.
+LATEX_CHAPTERS = REPO.parent / "latex" / "chapters"
 PROMPTS = REPO / "prompts"
 
 # Skip-list: prompts that aren't useful to readers

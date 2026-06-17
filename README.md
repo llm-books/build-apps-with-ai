@@ -21,7 +21,7 @@ If you're reading the book, this repo will help you with the following:
 .
 ├── prompts/                    Copy-paste prompts from every chapter
 │   ├── README.md               Index of all prompts
-│   ├── chapter-04/             One folder per chapter
+│   ├── chapter-01/             One folder per chapter
 │   ├── chapter-05/
 │   └── ...
 ├── errata.md                   Known issues and corrections to the book
@@ -31,7 +31,7 @@ If you're reading the book, this repo will help you with the following:
 
 Each chapter folder contains one `.md` file per prompt, in the order they appear in the book. Filename pattern: `NN-short-description.md`.
 
-For example, Chapter 5 (Building the Today Screen) contains the prompt that builds the entire main screen with habit cards, the prompt that fixes the safe-area status-bar overlap, and the prompt that updates `CLAUDE.md` at the end.
+For example, Chapter 6 (Building the Today Screen) contains the prompt that builds the entire main screen with habit cards, the prompt that fixes the safe-area status-bar overlap, and the prompt that updates `CLAUDE.md` at the end.
 
 ---
 
@@ -63,7 +63,7 @@ If many readers report the same issue, the fix gets added to `errata.md` and ref
 
 ### You're stuck but the book *does* cover your situation
 
-Re-read **Chapter 21: Troubleshooting Common Issues**, especially the **Escalation Ladder** at the end. Most stuck-points have a corresponding entry there.
+Re-read **Chapter 23: Troubleshooting Common Issues**, especially the **Escalation Ladder** at the end. Most stuck-points have a corresponding entry there.
 
 If you've climbed the ladder and you're still stuck, open an issue with the `help-wanted` label.
 

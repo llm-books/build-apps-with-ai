@@ -41,10 +41,10 @@ These aren't book bugs — they're things that may change with new tool versions
 
 - Firebase redesigns its console roughly once a year
 - The general flow stays the same: create project → add web app → enable Authentication → create Firestore
-- If the specific button labels in Chapter 11 don't match what you see, look for similarly-named options in the same area
+- If the specific button labels in Chapter 12 don't match what you see, look for similarly-named options in the same area
 
 ### Google Play / Apple App Store
 
 - App store policies and submission flows change frequently
-- The high-level steps in Chapters 17 and 18 remain correct, but specific menus may have moved
+- The high-level steps in Chapters 18 and 19 remain correct, but specific menus may have moved
 - When in doubt, search Google for "[store name] [current year] submit app guide" for the latest walkthrough
